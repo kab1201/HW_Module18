@@ -1,0 +1,9 @@
+from: test1 to: test4 text: Hi, TEST4! How are you?
+from: test1 to: test2 text: I invite you to a meeting at 4:00 p.m.
+from: test2 to: test1 text: Hi? TEST1. Ok!
+from: test2 to: all text: Who lost their keys?
+from: test2 to: all text: Good day, all!
+from: test2 to: test4 text: Good day, TEST4!
+from: test6 to: test6 text: Good day, TEST6!
+from: test4 to: all text: Changes in the price list!
+from: test5 to: all text: Ok!
